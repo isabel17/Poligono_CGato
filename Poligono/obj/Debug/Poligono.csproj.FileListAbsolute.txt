@@ -1,0 +1,8 @@
+E:\Dropbox\ESIME\8vo Semestre\Desarrollo de Proyectos\Interface Windows\Poligono\Poligono\bin\Debug\Poligono.exe.config
+E:\Dropbox\ESIME\8vo Semestre\Desarrollo de Proyectos\Interface Windows\Poligono\Poligono\bin\Debug\Poligono.exe
+E:\Dropbox\ESIME\8vo Semestre\Desarrollo de Proyectos\Interface Windows\Poligono\Poligono\bin\Debug\Poligono.pdb
+E:\Dropbox\ESIME\8vo Semestre\Desarrollo de Proyectos\Interface Windows\Poligono\Poligono\obj\Debug\Poligono.csprojResolveAssemblyReference.cache
+E:\Dropbox\ESIME\8vo Semestre\Desarrollo de Proyectos\Interface Windows\Poligono\Poligono\obj\Debug\Poligono.exe
+E:\Dropbox\ESIME\8vo Semestre\Desarrollo de Proyectos\Interface Windows\Poligono\Poligono\obj\Debug\Poligono.pdb
+E:\Dropbox\ESIME\8vo Semestre\Desarrollo de Proyectos\Interface Windows\Poligono\Poligono\bin\Debug\Erick.dll
+E:\Dropbox\ESIME\8vo Semestre\Desarrollo de Proyectos\Interface Windows\Poligono\Poligono\bin\Debug\Erick.pdb
